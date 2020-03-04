@@ -1,0 +1,19 @@
+{
+  "name": "agrilife-county-alert",
+  "version": "1.0.0",
+  "description": "Display an alert on AgriLife County websites",
+  "main": "agrilife-county-alert.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgriLife/agrilife-county-alert.git"
+  },
+  "author": "Zachary Watkins",
+  "license": "GPL-2.0+",
+  "bugs": {
+    "url": "https://github.com/AgriLife/agrilife-county-alert/issues"
+  },
+  "homepage": "https://github.com/AgriLife/agrilife-county-alert#readme"
+}
